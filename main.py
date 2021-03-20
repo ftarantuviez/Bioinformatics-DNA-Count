@@ -2,6 +2,7 @@ import pandas as pd
 import streamlit as st
 import altair as alt
 
+st.set_page_config(page_title='Bioinformatics DNA Count', page_icon="./f.png")
 
 st.write(""" 
   # DNA Nucleotide Count Web App
