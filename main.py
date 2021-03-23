@@ -71,3 +71,9 @@ if __name__ == "__main__":
     width=alt.Step(80)
   )
   st.write(p)
+
+  st.write("""
+    ## App repository
+
+    [Github](https://github.com/ftarantuviez/Bioinformatics-DNA-Count)
+  """)
