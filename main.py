@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import altair as alt
 
-if __name__ == "__main__":
+def main():
   st.set_page_config(page_title='Bioinformatics DNA Count', page_icon="./f.png")
 
   st.write(""" 
@@ -77,3 +77,7 @@ if __name__ == "__main__":
 
     [Github](https://github.com/ftarantuviez/Bioinformatics-DNA-Count)
   """)
+
+if __name__ == "__main__":
+  main()
+  
