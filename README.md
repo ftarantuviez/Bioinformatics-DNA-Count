@@ -1,2 +1,2 @@
 # Bioinformatics-Dna-Count
-[link to application](https://bioinformatics-dna-count.herokuapp.com/)
+[Link to application](https://tarantuviez-2.herokuapp.com/)
